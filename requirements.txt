@@ -1,0 +1,9 @@
+yfinance>=0.2.50
+pandas>=2.2,<3.0
+pandas-ta==0.4.71b0
+numpy>=1.26,<3.0
+openpyxl>=3.1.0
+requests>=2.31.0
+pykrx>=1.0.42
+finance-datareader>=0.9.50
+lxml>=5.0

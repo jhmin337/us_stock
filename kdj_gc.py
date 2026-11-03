@@ -129,7 +129,7 @@ class Config:
     buy_alert_limit: float = 0.0
 
     imminent_j_max: float = 20.0
-    gc_threshold: float = 20.0  # 골든크로스 판정 시 상한 수치 기준 (20 이하)
+    gc_threshold: float = 25.0  # 골든크로스 판정 시 상한 수치 기준 (20 이하)
 
     cmf_period: int = 20
     cmf_threshold: float = 0.1
